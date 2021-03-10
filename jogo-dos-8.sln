@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jogo-dos-8", "jogo-dos-8\jogo-dos-8.csproj", "{B6B45DC1-06DA-4096-9832-D161BE740099}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6B45DC1-06DA-4096-9832-D161BE740099}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6B45DC1-06DA-4096-9832-D161BE740099}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6B45DC1-06DA-4096-9832-D161BE740099}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6B45DC1-06DA-4096-9832-D161BE740099}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7AE4C895-8610-4D31-8299-D006D67A6FF8}
+	EndGlobalSection
+EndGlobal
